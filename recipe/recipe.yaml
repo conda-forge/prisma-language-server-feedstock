@@ -1,5 +1,5 @@
 context:
-  version: "6.10.1"
+  version: "6.11.0"
 
 package:
   name: prisma-language-server
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/@prisma/language-server/-/language-server-${{ version }}.tgz
-  sha256: f06a9c6f9a41cd496d29f63fccdd670cb83e16900b8297361bbeee10eb68d3d7
+  sha256: 1418ff370b4e74c08d7a4e29eb0442400b8f83a9f0fbc61713138a94fc9378c9
 
 build:
   number: 0
